@@ -128,33 +128,33 @@ height: 17px;
 }
 
 .item11 {    
-    background-image: url('images/trainer1.png');   
+    background-image: url('../images/trainer1.png');   
     width: 326.67px;
 height: 272px;
 margin-left: 200px;
 
 }
 .item22 {  
-    background-image: url('images/trainer2.png');    
+    background-image: url('../images/trainer2.png');    
     width: 326.67px;
 height: 272px;
 }
 
 .item33 {    
-    background-image: url('images/trainer3.png');    
+    background-image: url('../images/trainer3.png');    
     width: 326.67px;
 height: 272px;
 }
 
 .item44 {    
-    background-image: url('images/trainer4.png');    
+    background-image: url('../images/trainer4.png');    
     width: 326.67px;
 height: 272px;
 margin-left: 200px;
 }
 
 .item55 {    
-    background-image: url('images/trainer5.png');    
+    background-image: url('../images/trainer5.png');    
     width: 326.67px;
 height: 272px;
 }
@@ -162,7 +162,7 @@ height: 272px;
 .item66 {
     width: 326.67px;
     height: 272px;
-    background-image: url('images/trainer6.png');    
+    background-image: url('../images/trainer6.png');    
     margin-right: 500px;
 }
 .bmi-container2 {
@@ -543,14 +543,14 @@ margin-bottom: -150px;
 
 .item1 {
     background-color: rgba(5, 255, 200, 0.3); /* Background color with transparency */
-    background-image: url('images/exercise1.jpg');
+    background-image: url('../images/exercise1.jpg');
     background-blend-mode: overlay; /* Combine color and image */
     width: 250px;
 right: -200px;
 }
 .item2 {
     background-color: rgba(255, 0, 0, 0.3);
-    background-image: url('images/exercise2.png');
+    background-image: url('../images/exercise2.png');
     background-blend-mode: overlay;
     width: 539px;
     left: -39px;
@@ -558,14 +558,14 @@ right: -200px;
 
 .item3 {
     background-color: rgba(0, 0, 0, 0.2);
-    background-image: url('images/exercise3.png');
+    background-image: url('../images/exercise3.png');
     background-blend-mode: overlay;
     left: -39px;
     width: 300px;
 }
 
 .item4 {   
-    background-image: url('images/exercise4.png');
+    background-image: url('../images/exercise4.png');
     background-blend-mode: overlay;
     right: -200px;
     width: 435px;
@@ -573,7 +573,7 @@ right: -200px;
 
 .item5 {
     background-color: rgba(66, 255, 0, 0.3);
-    background-image: url('images/exercise5.jpg');
+    background-image: url('../images/exercise5.jpg');
     background-blend-mode: overlay;
     width: 320px;
     right: -100px;
@@ -582,7 +582,7 @@ right: -200px;
 
 .item6 {
     background-color: rgba(0, 71, 255, 0.3);
-    background-image: url('images/exercise6.jpg');
+    background-image: url('../images/exercise6.jpg');
     background-blend-mode: overlay;    
     width: 390px;
     right: 130px;
